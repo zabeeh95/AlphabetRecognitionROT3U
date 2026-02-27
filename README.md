@@ -1,10 +1,10 @@
-🔠 Handwritten Alphabet Recognition (A–Z) using CNN
+**🔠 Handwritten Alphabet Recognition (A–Z) using CNN**
 
 A deep learning–based system for recognizing handwritten English alphabets (A–Z) using Convolutional Neural Networks (
 CNNs).
 The project leverages TensorFlow/Keras for model training and OpenCV for image preprocessing and real-time prediction.
 
-📌 Project Overview
+**📌 Project Overview**
 
 Handwritten character recognition is a fundamental problem in computer vision and pattern recognition with applications
 in:
@@ -19,7 +19,7 @@ Human–computer interaction
 
 This project focuses on recognizing uppercase handwritten alphabets (A–Z) from grayscale images of size 28×28 pixels.
 
-🚀 Features
+**🚀 Features**
 
 ✅ Recognition of 26 English alphabets (A–Z)
 
@@ -62,7 +62,7 @@ alphabet-recognition/
 ├── .gitignore # Ignored files & folders
 └── README.md # Project documentation
 
-📊 Dataset Description
+**📊 Dataset Description**
 
 Total samples: 372,450
 
@@ -74,7 +74,7 @@ Pixel intensity range: 0–255
 
 Note: Dataset is not included in the repository due to size constraints.
 
-🖼️ Image Preprocessing Pipeline
+**🖼️ Image Preprocessing Pipeline**
 
 Gaussian Blur (noise reduction)
 
@@ -114,7 +114,7 @@ Has a clear background
 
 Is centered in the image
 
-📈 Results
+**📈 Results**
 
 High accuracy on clean handwritten samples
 
@@ -124,7 +124,7 @@ Works best when preprocessing matches training conditions
 
 🛠️ Technologies Used
 
-Python
+**Python**
 
 TensorFlow / Keras
 
@@ -134,7 +134,7 @@ NumPy
 
 Pandas
 
-📌 Future Improvements
+**📌 Future Improvements**
 
 🔹 Support for lowercase alphabets
 
@@ -146,11 +146,11 @@ Pandas
 
 🔹 Deployment as a web or mobile app
 
-📜 License
+**📜 License**
 
 This project is released for educational and research purposes.
 
-👤 Author
+**👤 Author**
 
 Zabeeh Ullah Noor
 Computer Vision & Deep Learning Enthusiast
